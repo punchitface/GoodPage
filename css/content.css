@@ -1,0 +1,19 @@
+.cool-around-box__content {
+    width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+    border: 1px solid;
+}
+
+.content__info {
+    width: 750px;
+    float: right;
+    border: 1px solid;
+    height: 500px;
+}
+
+.empty-clear {
+    height: 1px;
+    width: 100%;
+    clear: both;
+}
